@@ -9,14 +9,24 @@
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>FirstPost</title>
-            <link>/posts/2020/04/firstpost/</link>
+            <title>Github Pages Nedir?</title>
+            <link>/posts/2020/04/github-pages-nedir/</link>
             <pubDate>Mon, 13 Apr 2020 22:52:11 +0300</pubDate>
             
-            <guid>/posts/2020/04/firstpost/</guid>
-            <description>This page is under the development :)</description>
-            <content type="html"><![CDATA[<p>This page is under the development :)<br>
-<img src="https://inteng-storage.s3.amazonaws.com/images/sizes/coding_channels_resize_md.jpg" alt="alt text" title="This page is under the development :)  "></p>
+            <guid>/posts/2020/04/github-pages-nedir/</guid>
+            <description>Merhaba, Github Pages üzerinde oluşturduğum kişisel github blog sitesindeki ilk yazıda Github Pages&amp;rsquo;in ne olduğundan kıscaca bahsedeceğim.
+Hepimizi etkisi altına Covid-19&amp;rsquo;un yarattığı bu zorlu süreçte #EvdeKal&amp;rsquo;mayı kişisel gelişim ve bilgi paylaşımıylageçirmek hepimize katkı sağlayacak :)
+Sonraki yazı dizilerinde domain kurulumundan ilk post yazımına ve oluşturduğunuz içerikleri deploy etme adımına kadar tüm süreçleri eklemeyi planlıyorum :)
+Şurada detaylı olarak aslında bahsediliyor olmasıyla beraber tekrar üzerinden geçiyor olucaz.
+Açıklamadan da göreceğiniz gibi github pages siz ya da projeleriniz için statik websitelerinizi oluşturup github.</description>
+            <content type="html"><![CDATA[<h1 id="alt-texthttpspagesgithubcomimageslogosvg-github-pages--"><img src="https://pages.github.com/images/logo.svg" alt="alt text" title="Github Pages  "></h1>
+<p>Merhaba, Github Pages üzerinde oluşturduğum kişisel github blog sitesindeki ilk yazıda Github Pages&rsquo;in ne olduğundan kıscaca bahsedeceğim.<br>
+Hepimizi etkisi altına Covid-19&rsquo;un yarattığı bu zorlu süreçte #EvdeKal&rsquo;mayı kişisel gelişim ve bilgi paylaşımıylageçirmek hepimize katkı sağlayacak :)</p>
+<p>Sonraki yazı dizilerinde domain kurulumundan ilk post yazımına ve oluşturduğunuz içerikleri deploy etme adımına kadar tüm süreçleri eklemeyi planlıyorum :)</p>
+<p><a href="https://pages.github.com/">Şurada</a> detaylı olarak aslında bahsediliyor olmasıyla beraber tekrar üzerinden geçiyor olucaz.</p>
+<p>Açıklamadan da göreceğiniz gibi github pages siz ya da projeleriniz için statik websitelerinizi oluşturup github.io subdomaini üzerinde host etmenizi sağlayan yapı.<br>
+Sitenizi kurduktan ve host ettikten sonra username.github.io url&rsquo;i artık sizin için blog yazılarınızı ya da ürüne ait bilgileri sunabileceğiniz bir ortam.<br>
+Tüm bunlar için tabi ki öncelikle bir <a href="https://github.com">github</a> hesabınızın olması gerekiyor.</p>
 ]]></content>
         </item>
         
