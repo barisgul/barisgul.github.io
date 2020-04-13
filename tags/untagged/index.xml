@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Barış&#39;s Home</title>
+    <link>/tags/untagged/</link>
+    <description>Recent content in untagged on Barış&#39;s Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2020 22:52:11 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FirstPost</title>
+      <link>/posts/2020/04/firstpost/</link>
+      <pubDate>Mon, 13 Apr 2020 22:52:11 +0300</pubDate>
+      
+      <guid>/posts/2020/04/firstpost/</guid>
+      <description>This page is under the development :)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,9 +6,37 @@
     <description>Recent content on Barış&#39;s Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2020 22:52:41 +0300</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Post1</title>
+      <link>/showcase/post1/</link>
+      <pubDate>Mon, 13 Apr 2020 22:53:14 +0300</pubDate>
+      
+      <guid>/showcase/post1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 13 Apr 2020 22:52:41 +0300</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This page is under the development :)</description>
+    </item>
+    
+    <item>
+      <title>FirstPost</title>
+      <link>/posts/2020/04/firstpost/</link>
+      <pubDate>Mon, 13 Apr 2020 22:52:11 +0300</pubDate>
+      
+      <guid>/posts/2020/04/firstpost/</guid>
+      <description>This page is under the development :)</description>
+    </item>
     
   </channel>
 </rss>
