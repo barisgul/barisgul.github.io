@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/2020/04/hugo-nedir/</loc>
+    <lastmod>2020-04-14T23:53:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-04-14T23:53:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-14T23:53:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/untagged/</loc>
+    <lastmod>2020-04-14T23:53:06+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/showcase/post1/</loc>
     <lastmod>2020-04-13T22:53:14+03:00</lastmod>
   </url>
@@ -24,21 +44,6 @@
   
   <url>
     <loc>/posts/2020/04/github-pages-nedir/</loc>
-    <lastmod>2020-04-13T22:52:11+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-04-13T22:52:11+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-04-13T22:52:11+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/untagged/</loc>
     <lastmod>2020-04-13T22:52:11+03:00</lastmod>
   </url>
   

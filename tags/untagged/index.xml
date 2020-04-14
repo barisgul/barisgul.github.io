@@ -6,10 +6,21 @@
     <description>Recent content in untagged on Barış&#39;s Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2020 22:52:11 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2020 23:53:06 +0300</lastBuildDate>
     
 	<atom:link href="/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo Nedir?</title>
+      <link>/posts/2020/04/hugo-nedir/</link>
+      <pubDate>Tue, 14 Apr 2020 23:53:06 +0300</pubDate>
+      
+      <guid>/posts/2020/04/hugo-nedir/</guid>
+      <description>Serimizin ikinci yazısında github pages ile site oluştururken kullanabileceğimiz static site generator olarak da adlandırabileceğimiz HUGO adındaki Go programlama dili ile geliştirilen framework.
+Hugo ile oluşturacağınız web sitesi sadece github üzerinde host edilmemekle birlikte Netlify, Heroku, GoDaddy, DreamHost, GitLab Pages, Surge, Aerobatic, Firebase, Google Cloud Storage, Amazon S3, Rackspace, Azure, CloudFront gibi barındırıcıların tamamında host edilebilir.
+Hugo neden ve ne için kullanılabilir? İlk sorunun cevabı: kullanımı oldukça basit. Yazınızı herhangi bir editör yardımı ile yazıp kolayca deploy edebiliyorsunuz.</description>
+    </item>
     
     <item>
       <title>Github Pages Nedir?</title>
