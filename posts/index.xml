@@ -16,16 +16,18 @@
             <guid>/posts/2020/04/github-pages-ile-web-sitesi-olu%C5%9Fturmak/</guid>
             <description>Github Pages ile site oluştrurken öncelikli olarak bir Github hesabınızın olması gerektiğinden daha önce bahsetmiştim.
 Hesabınıza giriş yaptıktan sonra siteniz için bir repo&amp;rsquo;ya ihtiyacınız var. Bunun için Repositories alanına geldikten sonra kullanıcı adınızla birlikte aşağıdaki gibi bir repo açmanız gerekiyor.
-Burada açıklama alanına birşeyler girebilirsiniz. Ardından Readme dosyasını isterseniz doldurabilir ya da boş bırakabilirsiniz. İdeal durumlarda her projenin bir wiki görevi gören bu Readme.md dosyasının doldurulması sizi sonraki dokümantasyon işlerinden kurtaraağı gibi projenizi inceleyenler için de anlaşılmasını kolaylaştıracaktır.</description>
+ Burada açıklama alanına birşeyler girebilirsiniz. Ardından Readme dosyasını isterseniz doldurabilir ya da boş bırakabilirsiniz. İdeal durumlarda her projenin bir wiki görevi gören bu Readme.md dosyasının doldurulması sizi sonraki dokümantasyon işlerinden kurtaraağı gibi projenizi inceleyenler için de anlaşılmasını kolaylaştıracaktır.</description>
             <content type="html"><![CDATA[<p>Github Pages ile site oluştrurken öncelikli olarak bir Github hesabınızın olması gerektiğinden daha önce bahsetmiştim.<br>
 Hesabınıza giriş yaptıktan sonra siteniz için bir repo&rsquo;ya ihtiyacınız var. Bunun için Repositories alanına geldikten sonra kullanıcı adınızla birlikte aşağıdaki
 gibi bir repo açmanız gerekiyor.</p>
+<h1 id="httpsrawgithubusercontentcombarisgulbg_homemasterresources_genimagesreponamepng"><img src="https://raw.githubusercontent.com/barisgul/bg_home/master/resources/_gen/images/repoName.PNG" alt=""></h1>
 <p>Burada açıklama alanına birşeyler girebilirsiniz. 
 Ardından Readme dosyasını isterseniz doldurabilir ya da boş bırakabilirsiniz. İdeal durumlarda her projenin bir wiki görevi gören bu Readme.md
 dosyasının doldurulması sizi sonraki dokümantasyon işlerinden kurtaraağı gibi projenizi inceleyenler için de anlaşılmasını kolaylaştıracaktır.<br>
 Ardından repoyu oluşturabilirsiniz.<br>
 Repoyu oluşturduğunuzdan emin olmak için reponun içindeyseniz Settings alanından Options seçeneği altında Github Pages başlığı altında aşağıdaki
-ibareyi görmeniz subdomain ile siteyi publish ettiğinizi gösterir.</p>
+ibareyi görmeniz subdomain ile siteyi publish ettiğinizi gösterir. (benim için şu url: <a href="https://github.com/barisgul/barisgul.github.io/settings">https://github.com/barisgul/barisgul.github.io/settings</a>)</p>
+<h1 id="httpsrawgithubusercontentcombarisgulbg_homemasterresources_genimagesgithubpageisactivepng"><img src="https://raw.githubusercontent.com/barisgul/bg_home/master/resources/_gen/images/githubPageIsActive.PNG" alt=""></h1>
 ]]></content>
         </item>
         
