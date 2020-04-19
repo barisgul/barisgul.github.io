@@ -5,8 +5,29 @@
         <description>Recent content in Posts on Barış&#39;s Home</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 14 Apr 2020 23:53:06 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2020 20:40:08 +0300</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Github Pages İle Web Sitesi Oluşturmak</title>
+            <link>/posts/2020/04/github-pages-ile-web-sitesi-olu%C5%9Fturmak/</link>
+            <pubDate>Sun, 19 Apr 2020 20:40:08 +0300</pubDate>
+            
+            <guid>/posts/2020/04/github-pages-ile-web-sitesi-olu%C5%9Fturmak/</guid>
+            <description>Github Pages ile site oluştrurken öncelikli olarak bir Github hesabınızın olması gerektiğinden daha önce bahsetmiştim.
+Hesabınıza giriş yaptıktan sonra siteniz için bir repo&amp;rsquo;ya ihtiyacınız var. Bunun için Repositories alanına geldikten sonra kullanıcı adınızla birlikte aşağıdaki gibi bir repo açmanız gerekiyor.
+Burada açıklama alanına birşeyler girebilirsiniz. Ardından Readme dosyasını isterseniz doldurabilir ya da boş bırakabilirsiniz. İdeal durumlarda her projenin bir wiki görevi gören bu Readme.md dosyasının doldurulması sizi sonraki dokümantasyon işlerinden kurtaraağı gibi projenizi inceleyenler için de anlaşılmasını kolaylaştıracaktır.</description>
+            <content type="html"><![CDATA[<p>Github Pages ile site oluştrurken öncelikli olarak bir Github hesabınızın olması gerektiğinden daha önce bahsetmiştim.<br>
+Hesabınıza giriş yaptıktan sonra siteniz için bir repo&rsquo;ya ihtiyacınız var. Bunun için Repositories alanına geldikten sonra kullanıcı adınızla birlikte aşağıdaki
+gibi bir repo açmanız gerekiyor.</p>
+<p>Burada açıklama alanına birşeyler girebilirsiniz. 
+Ardından Readme dosyasını isterseniz doldurabilir ya da boş bırakabilirsiniz. İdeal durumlarda her projenin bir wiki görevi gören bu Readme.md
+dosyasının doldurulması sizi sonraki dokümantasyon işlerinden kurtaraağı gibi projenizi inceleyenler için de anlaşılmasını kolaylaştıracaktır.<br>
+Ardından repoyu oluşturabilirsiniz.<br>
+Repoyu oluşturduğunuzdan emin olmak için reponun içindeyseniz Settings alanından Options seçeneği altında Github Pages başlığı altında aşağıdaki
+ibareyi görmeniz subdomain ile siteyi publish ettiğinizi gösterir.</p>
+]]></content>
+        </item>
         
         <item>
             <title>Hugo Nedir?</title>
