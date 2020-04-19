@@ -27,7 +27,8 @@ dosyasının doldurulması sizi sonraki dokümantasyon işlerinden kurtaraağı 
 Ardından repoyu oluşturabilirsiniz.<br>
 Repoyu oluşturduğunuzdan emin olmak için reponun içindeyseniz Settings alanından Options seçeneği altında Github Pages başlığı altında aşağıdaki
 ibareyi görmeniz subdomain ile siteyi publish ettiğinizi gösterir. (benim için şu url: <a href="https://github.com/barisgul/barisgul.github.io/settings">https://github.com/barisgul/barisgul.github.io/settings</a>)</p>
-<h1 id="httpsrawgithubusercontentcombarisgulbg_homemasterresources_genimagesgithubpageisactivepng"><img src="https://raw.githubusercontent.com/barisgul/bg_home/master/resources/_gen/images/githubPageIsActive.PNG" alt=""></h1>
+<h1 id="httpsrawgithubusercontentcombarisgulbg_homemasterresources_genimagesgithubpagesisactivepng"><img src="https://raw.githubusercontent.com/barisgul/bg_home/master/resources/_gen/images/githubPagesIsActive.PNG" alt=""></h1>
+<p>Bir sonraki yazıda site için template seçimini yapıp kurulumunu inceleyeceğiz.</p>
 ]]></content>
         </item>
         
